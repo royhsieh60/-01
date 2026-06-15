@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-line-bot-sdk
-huggingface-hub
-Pillow
-pypdf
-pymongo
-google-genai
-requests
