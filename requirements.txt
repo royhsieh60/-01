@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+line-bot-sdk
+huggingface-hub
+google-genai
+pymongo
+pillow
+pypdf
+python-docx
+certifi
